@@ -1,2 +1,6 @@
-# hello
-print hello in c++
+#include<iostream>
+using namespace std;
+  void main(){
+  cout<<"Hello";
+  }
+  
